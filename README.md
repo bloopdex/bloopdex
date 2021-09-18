@@ -54,13 +54,13 @@ if __name__ == '__main__':
 </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sudeep-deysarker">
+  <a href="https://www.linkedin.com/in/mohammed-rami-benhamida-1491921a8/">
     <img align="center" alt="Satoshi Unique Badge" width="200px" height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <emsp> 
-  <a href="https://www.youtube.com/channel/UCAXdtCj0usV6FO3m4G6djQQ">
+  <a href="https://www.youtube.com/channel/UCL3CSwHNFBFhQoDDpqTU3mQ">
     <img align="center" alt="Satoshi Unique Badge" width="220px" height="50px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> <emsp>
-    <a href="https://twitter.com/lunaticsatoshi?s=03">
+    <a href="https://twitter.com/benhamida_rami">
     <img align="center" alt="Satoshi Unique Badge" width="220px" height="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> <emsp>
   
