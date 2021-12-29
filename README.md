@@ -42,6 +42,7 @@ if __name__ == '__main__':
   main()
 
 ```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcg5eibusarhttvrtv2a7seuye&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jcg5eibusarhttvrtv2a7seuye&redirect=true)
 
 <br>
 
