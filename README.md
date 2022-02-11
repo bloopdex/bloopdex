@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Science Student | Python Lover | ML/AI Student
+  Computer Science Student | Python Lover | ML/AI Lover
 </h3>
 
 <br>
@@ -27,12 +27,12 @@
 def getBio():
     return f"
     - 🏦 I'm currently working to improve my skills 
-    - 🤔 I code in .js, .ts, .rb, .py
-    - 🌱 I’m currently learning docker 🐳 and kubernetes ☸
+    - 🤔 I code in .cpp, .py
+    - 🌱 I’m currently learning WebDev
     - 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩.
     - 😄 Pronouns: He/Him
     - 📝 I sometimes write on my Blog
-    - 🤩 I’m looking forward to Hacktoberfest
+    - 🤩 I’m looking forward to ......
     "
     
 def main():
