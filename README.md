@@ -1,50 +1,40 @@
-<h1 align="center">
-  Hi 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  , I'm Mohammed Rami Benhamida
-</h1>
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3 align="center">
-  Computer Science Student | Python Lover | ML/AI Lover
-</h3>
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science
+- 💼 &nbsp; Flutter developer
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Dart | Python | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript
+- 🛢 &nbsp; MySQL | Firebase | SQLite
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🖥 &nbsp; Figma | Illustrator | Photoshop | Lightroom
 
 <br>
 
-<div align="center" >
-  <img alt="GIF"  height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-<br>
-<!--
-<p align="center" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=Lunaticsatoshi" alt="Lunaticsatoshi"/>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/bloopdex" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/bloopdex/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/mohammedrami-benhamida/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:bloopdex@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
--->
-<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me</h2>
 
-```python
-
-def getBio():
-    return f"
-    - 🏦 I'm currently working to improve my skills 
-    - 🤔 I code in .cpp, .py
-    - 🌱 I’m currently learning WebDev
-    - 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩.
-    - 😄 Pronouns: He/Him
-    - 📝 I sometimes write on my Blog
-    - 🤩 I’m looking forward to ......
-    "
-    
-def main():
-  print(getBio())
-  
-if __name__ == '__main__':
-  main()
-
-```
-
-<br>
-
-<div align="center" >
-  <img alt="GIF"  height="200px" style="border-radius:10px" src="./assets/coding.gif" />
-</div>
+⭐️ From [BloopDex](https://github.com/bloopdex)
