@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Benhamida Mohammed Rami Benhamida. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Mohammed Rami Benhamida. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/bloopdex/bloopdex/blob/Master/assets/Hi%202.0.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
